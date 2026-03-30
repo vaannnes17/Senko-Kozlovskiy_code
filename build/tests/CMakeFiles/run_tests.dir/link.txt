@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/run_tests.dir/test_driver.cpp.o -o run_tests  ../src/libautopark_lib.a -lsqlite3 ../lib/libgtest_main.a ../lib/libgtest.a 
