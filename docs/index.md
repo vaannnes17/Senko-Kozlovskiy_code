@@ -426,3 +426,7 @@ ORDERS(order_id) <-- EARNINGS(order_id)
 - Используются отдельные модули для работы с водителями, машинами, заказами, отчётами и базой данных.
 - Все операции выполняются через SQLite базу данных.
 - Структура проекта соответствует модели КИС (классическая информационная система) с разделением на слои представления (main.c), бизнес-логики (pensioner.c, vehicle.c, order.c, report.c) и доступа к данным (database.c).
+
+## 13. Ссылки на пройденные курсы GitHub Pages
+- [Козловский Евгений](https://github.com/apemphasis/skills-github-pages)
+- [Сенько Иван](https://github.com/vaannnes17/skills-github-pages)
